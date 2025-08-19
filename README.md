@@ -1,4 +1,4 @@
-This project analyzes cross-lingual semantic similarity by comparing three state-of-the-art embedding models (LASER, LaBSE, and OpenAI) across multiple languages and sentence complexity types. The analysis includes comprehensive visualizations such as heatmaps and word clouds to understand how different languages relate to each other semantically, with particular focus on how sentence complexity affects cross-lingual similarity patterns.
+This project analyzes cross-lingual semantic similarity by comparing three state-of-the-art embedding models (LASER, LaBSE, and OpenAI) across 61 languages including English, Chinese, Arabic, French, Spanish, German, Hindi, Bengali, and many others, examining different sentence complexity types. The analysis includes comprehensive visualizations such as heatmaps and word clouds to understand how different languages relate to each other semantically, with particular focus on how sentence complexity affects cross-lingual similarity patterns.
 
 ## Visualization Details  
 
